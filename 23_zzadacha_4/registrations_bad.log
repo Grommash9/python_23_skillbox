@@ -1,0 +1,5 @@
+Valer4a kolya@mail.ru 25 // error type: NameError
+Gerold kaolin.ru 25 // error type: SyntaxError
+Inokentyj kolya@mail.ru 999 // error type: ValueError
+Inokentyj kolya@mail.ru shas // error type: ValueError
+Anton 2 // error type: ValueError
